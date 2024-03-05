@@ -1,0 +1,85 @@
+/* Stilizare pentru postări */
+.postare {
+    background-color: #ffffff; /* Fundal alb */
+    padding: 20px; /* Spațiere */
+    margin-bottom: 20px; /* Margine între postări */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Umbră subtilă */
+    margin-left: 25%; /* Margine la stânga */
+    margin-right: 25%; /* Margine la dreapta */
+     /* Text îngroșat */
+  }
+  .utilizatorp {
+    font-size: 30px; /* Dimensiune text */
+    font-weight: bold; /* Text subțire */
+    color: #555555; /* Culoare text */
+  }
+  .textp{
+    font-size: 25px; /* Dimensiune text */
+    font-weight: bold; /* Text subțire */
+    color: #555555; 
+  }
+  .descriere{
+    font-size: 20px; /* Dimensiune text */
+    font-weight: normal; /* Text subțire */
+    color: #555555; 
+  }
+  .datap{
+    font-size: 10px; /* Dimensiune text */
+    font-weight: italic; /* Text subțire */
+    color: #89CFEF; 
+  }
+  .etichete{
+    font-size: 12px; /* Dimensiune text */
+    font-weight: italic; /* Text subțire */
+    color: #4682B4; 
+  }
+  .locatie{
+    font-size: 15px; /* Dimensiune text */
+    font-weight: normal; /* Text subțire */
+    color: #555555; 
+  }
+  /* Stilizare pentru comentarii */
+.comentariu {
+    background-color: #f2f2f2; /* Fundal gri deschis */
+    padding: 10px; /* Spațiere */
+    margin-bottom: 10px; /* Margine între comentarii */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Umbră subtilă */
+    margin-left: 7%; /* Margine la stânga */
+    margin-right: 5%; /* Margine la dreapta */
+    font-size: 14px; /* Dimensiune text */
+    font-weight: normal; /* Text subțire */
+    color: #555555; /* Culoare text */
+  }
+  .utilizatorc {
+    font-size: 20px; /* Dimensiune text */
+    font-weight: bold; /* Text subțire */
+    color: #555555; /* Culoare text */
+  }
+  .textc{
+    font-size: 15px; /* Dimensiune text */
+    font-weight: normal; /* Text subțire */
+    color: #555555; 
+  }
+  .datac{
+    font-size: 10px; /* Dimensiune text */
+    font-weight: italic; /* Text subțire */
+    color: #89CFEF; 
+  }
+  /* Stil pentru tabel */
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  /* Stil pentru capul de tabel */
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  /* Stil pentru celulele din tabel */
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }

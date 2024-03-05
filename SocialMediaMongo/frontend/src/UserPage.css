@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none; /* Elimină "bullets" de la listă */
+    padding: 0;
+  }
+  .detalii {
+    background-color: #ffffff; /* Fundal alb */
+    padding: 20px; /* Spațiere */
+    margin-bottom: 20px; /* Margine între postări */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Umbră subtilă */
+    margin-left: 35%; /* Margine la stânga */
+    margin-right: 45%; /* Margine la dreapta */
+    margin-top: 10%;
+  }
